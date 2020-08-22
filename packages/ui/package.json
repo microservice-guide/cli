@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@microservices/validate": "^0.16.6",
-    "@vue/component-compiler-utils": "3.0.2",
+    "@vue/component-compiler-utils": "3.2.0",
     "autoprefixer": "9.7.3",
     "eslint": "6.7.2",
     "eslint-plugin-import": "2.18.2",
