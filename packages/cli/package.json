@@ -57,6 +57,6 @@
     "@types/js-yaml": "3.12.1",
     "@types/lodash": "4.14.149",
     "@types/uuid": "3.4.6",
-    "typescript": "3.7.2"
+    "typescript": "3.9.7"
   }
 }
