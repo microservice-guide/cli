@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "12.12.14",
+    "@types/node": "12.19.15",
     "typescript": "3.7.2"
   },
   "bugs": {
