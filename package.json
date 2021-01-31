@@ -22,7 +22,7 @@
     "lerna": "3.19.0",
     "prettier-cli": "0.1.0",
     "sb-babel-cli": "2.1.0",
-    "vue-eslint-parser": "7.0.0"
+    "vue-eslint-parser": "7.4.1"
   },
   "scripts": {
     "prettier:fix": "prettier --write packages/*/{src,__tests__}/**/*.{js,ts}",
